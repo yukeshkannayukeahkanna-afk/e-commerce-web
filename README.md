@@ -50,3 +50,7 @@ The website focuses on a clean user interface, smooth navigation, and an engagin
 ## Author
 
 Developed by **Yukesh**
+
+##Connect
+LinkedIn: [www.linkedin.com/in/yukeshkanna022007]
+GitHub: [https://github.com/yukeshkannayukeahkanna-afk]
